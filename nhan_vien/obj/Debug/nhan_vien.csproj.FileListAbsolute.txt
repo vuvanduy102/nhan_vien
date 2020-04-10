@@ -1,0 +1,8 @@
+D:\abc\nhan_vien\nhan_vien\obj\Debug\nhan_vien.csprojAssemblyReference.cache
+D:\abc\nhan_vien\nhan_vien\obj\Debug\nhan_vien.frmnhanvien.resources
+D:\abc\nhan_vien\nhan_vien\obj\Debug\nhan_vien.Properties.Resources.resources
+D:\abc\nhan_vien\nhan_vien\obj\Debug\nhan_vien.csproj.GenerateResource.cache
+D:\abc\nhan_vien\nhan_vien\bin\Debug\nhan_vien.exe
+D:\abc\nhan_vien\nhan_vien\bin\Debug\nhan_vien.pdb
+D:\abc\nhan_vien\nhan_vien\obj\Debug\nhan_vien.exe
+D:\abc\nhan_vien\nhan_vien\obj\Debug\nhan_vien.pdb
